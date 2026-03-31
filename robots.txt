@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://studentloandefault.org/sitemap.xml
