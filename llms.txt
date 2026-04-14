@@ -1,20 +1,21 @@
-# Student Loan Default -- Consequences & Solutions [2026]
+# Student Loan Default - Consequences & Solutions [2026]
 > What happens when you default on student loans? Garnishment, tax offsets, credit damage, and how to get out of default. 2026 guide.
 
 ## About
 studentloandefault.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Consolidation After Student Loan Default -- Fast Exit From Default: https://studentloandefault.org/consolidation-after-default.html
-- Credit Impact of Student Loan Default -- How Bad Is It?: https://studentloandefault.org/credit-impact-default.html
-- Student Loan Default Timeline -- What Happens Month by Month: https://studentloandefault.org/default-timeline.html
-- Getting Out of Student Loan Default -- All Your Options: https://studentloandefault.org/getting-out-of-default.html
-- Student Loan Default -- Consequences & Solutions: https://studentloandefault.org/
-- Private Student Loan Default -- Different Rules, Different Risks: https://studentloandefault.org/private-loan-default.html
-- Student Loan Rehabilitation -- Remove Default From Your Credit Report: https://studentloandefault.org/rehabilitation.html
-- Student Loan Social Security Offset -- Protecting Benefits From Seizure: https://studentloandefault.org/social-security-offset.html
-- Student Loan Tax Refund Offset -- When the IRS Takes Your Refund: https://studentloandefault.org/tax-refund-offset.html
-- Student Loan Wage Garnishment -- How Much They Can Take and How to Stop It: https://studentloandefault.org/wage-garnishment.html
+- Consolidation After Student Loan Default - Fast Exit From Default: https://studentloandefault.org/consolidation-after-default.html
+- Credit Impact of Student Loan Default - How Bad Is It?: https://studentloandefault.org/credit-impact-default.html
+- Student Loan Default Timeline - What Happens Month by Month: https://studentloandefault.org/default-timeline.html
+- Getting Out of Student Loan Default - All Your Options: https://studentloandefault.org/getting-out-of-default.html
+- Student Loan Default - Consequences & Solutions: https://studentloandefault.org/
+- Private Student Loan Default - Different Rules, Different Risks: https://studentloandefault.org/private-loan-default.html
+- Student Loan Rehabilitation - Remove Default From Your Credit Report: https://studentloandefault.org/rehabilitation.html
+- Student Loan Social Security Offset - Protecting Benefits From Seizure: https://studentloandefault.org/social-security-offset.html
+- Student Loan Tax Refund Offset - When the IRS Takes Your Refund: https://studentloandefault.org/tax-refund-offset.html
+- Student Loan Wage Garnishment - How Much They Can Take and How to Stop It: https://studentloandefault.org/wage-garnishment.html
+- Privacy Policy: https://studentloandefault.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

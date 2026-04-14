@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Consolidation After Student Loan Default -- Fast Exit From Default
+## Consolidation After Student Loan Default - Fast Exit From Default
 Source: https://studentloandefault.org/consolidation-after-default.html
 
 Consolidation After Default
@@ -31,7 +31,7 @@ Many borrowers choose based on urgency: if garnishment is devastating your finan
 
 After Consolidation
 
-Once consolidation is complete: 1. Confirm enrollment in your chosen IDR plan. 2. Set up autopay to prevent future default. 3. If you work for a PSLF-qualifying employer, submit the Employment Certification Form. 4. Begin your forgiveness clock -- payments on the new consolidation loan count toward IDR forgiveness from the consolidation date.
+Once consolidation is complete: 1. Confirm enrollment in your chosen IDR plan. 2. Set up autopay to prevent future default. 3. If you work for a PSLF-qualifying employer, submit the Employment Certification Form. 4. Begin your forgiveness clock - payments on the new consolidation loan count toward IDR forgiveness from the consolidation date.
 
 Note: consolidation resets your IDR forgiveness clock. Pre-consolidation payments on the defaulted loans don't count toward the 20-25 year forgiveness period on the new consolidation loan. The IDR Account Adjustment may have credited some historical time, but going forward, the clock starts fresh.
 
@@ -77,7 +77,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -161,7 +161,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Credit Impact of Student Loan Default -- How Bad Is It?
+## Credit Impact of Student Loan Default - How Bad Is It?
 Source: https://studentloandefault.org/credit-impact-default.html
 
 Credit Impact of Student Loan Default
@@ -178,7 +178,7 @@ The credit damage affects: mortgage applications, auto loan rates, apartment ren
 
 Rehabilitation Removes the Default
 
-Loan rehabilitation is the only path that removes the default notation from your credit report. After completing 9 qualifying payments over 10 months, the default is removed (though the late payment history before default remains). No other option -- not consolidation, not paying in full -- removes the default notation.
+Loan rehabilitation is the only path that removes the default notation from your credit report. After completing 9 qualifying payments over 10 months, the default is removed (though the late payment history before default remains). No other option - not consolidation, not paying in full - removes the default notation.
 
 This makes rehabilitation the preferred option for most borrowers who are concerned about their credit. Consolidation stops collection activity faster but doesn't clean up the credit report. Many borrowers rehabilitate first (to fix credit), then consolidate into an IDR plan (for lower payments and forgiveness eligibility).
 
@@ -230,7 +230,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -314,7 +314,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Default Timeline -- What Happens Month by Month
+## Student Loan Default Timeline - What Happens Month by Month
 Source: https://studentloandefault.org/default-timeline.html
 
 Student Loan Default Timeline
@@ -325,15 +325,15 @@ Home » Student Loan Default Timeline
 
 Delinquency: Days 1-270
 
-Federal student loans become delinquent the day after a missed payment. Delinquency is reported to credit bureaus after 90 days. During the delinquency period, you still have access to forbearance, deferment, and IDR plan enrollment. This is the critical window to act -- contact your servicer immediately to explore options.
+Federal student loans become delinquent the day after a missed payment. Delinquency is reported to credit bureaus after 90 days. During the delinquency period, you still have access to forbearance, deferment, and IDR plan enrollment. This is the critical window to act - contact your servicer immediately to explore options.
 
-The delinquency period for federal loans is 270 days (about 9 months) before default. Private student loans default much sooner -- often after 120 days (3-4 missed payments). If you have both federal and private loans, prioritize communication with your private lender first.
+The delinquency period for federal loans is 270 days (about 9 months) before default. Private student loans default much sooner - often after 120 days (3-4 missed payments). If you have both federal and private loans, prioritize communication with your private lender first.
 
 Default: Day 270+
 
 After 270 days of delinquency, federal student loans enter default. This triggers a cascade of consequences: the entire balance becomes immediately due (acceleration), the loan is transferred to a collection agency, administrative wage garnishment can begin without a court order, tax refund offset begins, professional license suspension in some states, and credit score damage intensifies.
 
-Once in default, you lose access to deferment, forbearance, IDR plans, and additional federal student aid. The options narrow to: rehabilitation, consolidation, or paying in full. Act quickly -- the longer you're in default, the more collection fees accrue (up to 25% of the balance).
+Once in default, you lose access to deferment, forbearance, IDR plans, and additional federal student aid. The options narrow to: rehabilitation, consolidation, or paying in full. Act quickly - the longer you're in default, the more collection fees accrue (up to 25% of the balance).
 
 Collection and Enforcement
 
@@ -374,6 +374,10 @@ Brunner Test for Student Loans
 
 Credit Card Forgiveness Options
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -383,7 +387,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -467,7 +471,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Getting Out of Student Loan Default -- All Your Options
+## Getting Out of Student Loan Default - All Your Options
 Source: https://studentloandefault.org/getting-out-of-default.html
 
 Getting Out of Student Loan Default
@@ -478,7 +482,7 @@ Home » Getting Out of Student Loan Default
 
 Five Paths Out of Default
 
-Federal student loan default has five resolution paths: 1. Rehabilitation -- 9 payments over 10 months; removes default from credit report. 2. Consolidation -- consolidate into new Direct Loan; fastest option. 3. Repayment in full -- pay the entire balance including fees. 4. Compromise -- settle for less than the full amount (rare, strict requirements). 5. Bankruptcy -- discharge through undue hardship adversary proceeding.
+Federal student loan default has five resolution paths: 1. Rehabilitation - 9 payments over 10 months; removes default from credit report. 2. Consolidation - consolidate into new Direct Loan; fastest option. 3. Repayment in full - pay the entire balance including fees. 4. Compromise - settle for less than the full amount (rare, strict requirements). 5. Bankruptcy - discharge through undue hardship adversary proceeding.
 
 For most borrowers, the choice is between rehabilitation and consolidation. Repayment in full is impractical for most. Compromise settlements are rarely offered and require a lump sum. Bankruptcy discharge is increasingly viable but still requires an adversary proceeding.
 
@@ -490,7 +494,7 @@ Consider bankruptcy if: You have other significant debts in addition to student 
 
 Preventing Future Default
 
-After resolving default, the single most important step is enrolling in an income-driven repayment plan with autopay. If your income drops, IDR payments drop with it -- potentially to $0. There's no reason to default on federal student loans when $0 payments are available during financial hardship.
+After resolving default, the single most important step is enrolling in an income-driven repayment plan with autopay. If your income drops, IDR payments drop with it - potentially to $0. There's no reason to default on federal student loans when $0 payments are available during financial hardship.
 
 Recertify income annually. If you miss the recertification deadline, your payment can spike temporarily. Set a calendar reminder 2 months before the deadline. Communicate with your servicer. If you can't make a payment, call before the due date. Forbearance and deferment are available for temporary hardships.
 
@@ -536,7 +540,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -620,8 +624,10 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Default -- Consequences & Solutions [2026]
+## Student Loan Default - Consequences & Solutions [2026]
 Source: https://studentloandefault.org/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -631,7 +637,7 @@ What Happens When You Stop Paying Student Loans
 
 What Is Student Loan Default?
 
-Federal student loans enter default after 270 days (9 months) of missed payments. Private student loans may default after just one missed payment, depending on your loan agreement. Default is different from delinquency -- your loans become delinquent the day after a missed payment, but default is the serious stage that triggers aggressive collection.
+Federal student loans enter default after 270 days (9 months) of missed payments. Private student loans may default after just one missed payment, depending on your loan agreement. Default is different from delinquency - your loans become delinquent the day after a missed payment, but default is the serious stage that triggers aggressive collection.
 
 Currently, over 7 million Americans are in default on their federal student loans. Default has severe consequences, but there are concrete paths out.
 
@@ -663,7 +669,7 @@ The Treasury Offset Program (TOP) can seize your federal and state tax refunds t
 
 Student Loan Default and Bankruptcy
 
-Filing bankruptcy triggers the automatic stay protection in bankruptcy, which immediately stops wage garnishment, tax refund offsets, and all collection activity. Student loans are difficult but not impossible to discharge -- you must prove "undue hardship" in an adversary proceeding. The Brunner test is the most common standard.
+Filing bankruptcy triggers the automatic stay protection in bankruptcy, which immediately stops wage garnishment, tax refund offsets, and all collection activity. Student loans are difficult but not impossible to discharge - you must prove "undue hardship" in an adversary proceeding. The Brunner test is the most common standard.
 
 Even if you cannot discharge the loans, bankruptcy can eliminate other debts, freeing up income to manage student loan payments. Compare Chapter 7 and Chapter 13 for different approaches to student loan debt.
 
@@ -685,27 +691,27 @@ No. While in default, you lose eligibility for federal financial aid (Pell Grant
 
 Can Social Security be garnished for student loans?
 
-Yes. Federal student loans are one of the few debts that can result in Social Security offset -- up to 15% of your monthly benefit. However, your benefit cannot be reduced below $750 per month. Private student loans cannot garnish Social Security.
+Yes. Federal student loans are one of the few debts that can result in Social Security offset - up to 15% of your monthly benefit. However, your benefit cannot be reduced below $750 per month. Private student loans cannot garnish Social Security.
 
 Explore Our Guides
 
-Student Loan Default Timeline -- The stages of federal student loan default from first missed payment through collections. Understanding the timeline hel
+Student Loan Default Timeline - The stages of federal student loan default from first missed payment through collections. Understanding the timeline hel
 
-Student Loan Wage Garnishment -- Federal student loan wage garnishment can take up to 15% of disposable pay without a court order. Learn how it works and
+Student Loan Wage Garnishment - Federal student loan wage garnishment can take up to 15% of disposable pay without a court order. Learn how it works and
 
-Student Loan Tax Refund Offset -- Defaulted federal student loans can result in your tax refund being seized. How the offset works, how to object, and how
+Student Loan Tax Refund Offset - Defaulted federal student loans can result in your tax refund being seized. How the offset works, how to object, and how
 
-Credit Impact of Student Loan Default -- Student loan default devastates credit scores. Understand the reporting rules, how long default stays on your report, an
+Credit Impact of Student Loan Default - Student loan default devastates credit scores. Understand the reporting rules, how long default stays on your report, an
 
-Student Loan Rehabilitation -- Loan rehabilitation is the only way to remove a student loan default from your credit report. 9 payments over 10 months.
+Student Loan Rehabilitation - Loan rehabilitation is the only way to remove a student loan default from your credit report. 9 payments over 10 months.
 
-Consolidation After Default -- Direct Consolidation Loan is the fastest way to exit federal student loan default. How it works, pros and cons vs. rehab
+Consolidation After Default - Direct Consolidation Loan is the fastest way to exit federal student loan default. How it works, pros and cons vs. rehab
 
-Getting Out of Student Loan Default -- Complete guide to resolving federal student loan default. Rehabilitation, consolidation, repayment in full, compromise,
+Getting Out of Student Loan Default - Complete guide to resolving federal student loan default. Rehabilitation, consolidation, repayment in full, compromise,
 
-Social Security Offset for Student Loans -- The federal government can offset Social Security benefits for defaulted student loans. Learn the limits, protections, a
+Social Security Offset for Student Loans - The federal government can offset Social Security benefits for defaulted student loans. Learn the limits, protections, a
 
-Private Student Loan Default -- Private student loan default follows different rules than federal loans. No administrative garnishment, but lawsuits and
+Private Student Loan Default - Private student loan default follows different rules than federal loans. No administrative garnishment, but lawsuits and
 
 Check your bankruptcy discharge eligibility with our free screening tool.
 
@@ -811,7 +817,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -859,7 +865,7 @@ bankruptcystudentloans.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -916,6 +922,7 @@ Means Test
 File Without a Lawyer
 Rebuild Credit
 studentloandefault.org
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -929,9 +936,11 @@ Terms
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Private Student Loan Default -- Different Rules, Different Risks
+## Private Student Loan Default - Different Rules, Different Risks
 Source: https://studentloandefault.org/private-loan-default.html
 
 Private Student Loan Default
@@ -942,7 +951,7 @@ Home » Private Student Loan Default
 
 Key Differences From Federal Default
 
-Private student loans operate under completely different rules: No administrative garnishment -- private lenders must sue and obtain a court judgment before garnishing wages. Statute of limitations applies -- private loans are subject to state SOL (typically 3-6 years). Faster default -- most private loans default after 120 days vs. 270 for federal. No rehabilitation or consolidation -- these federal programs don't apply to private loans. No IDR plans or forgiveness -- private loans have no income-based payment options or forgiveness programs.
+Private student loans operate under completely different rules: No administrative garnishment - private lenders must sue and obtain a court judgment before garnishing wages. Statute of limitations applies - private loans are subject to state SOL (typically 3-6 years). Faster default - most private loans default after 120 days vs. 270 for federal. No rehabilitation or consolidation - these federal programs don't apply to private loans. No IDR plans or forgiveness - private loans have no income-based payment options or forgiveness programs.
 
 The silver lining: because private lenders must go through the court system, you have more legal defenses available, including the statute of limitations.
 
@@ -950,7 +959,7 @@ What Happens When You Default on Private Loans
 
 After default, the private lender will: 1. Report the default to credit bureaus (devastating score impact). 2. Send the account to internal collections or sell it to a debt buyer. 3. Potentially file a lawsuit to obtain a judgment. 4. If judgment obtained, pursue wage garnishment, bank levies, and property liens through the court.
 
-Many private student loan debts are sold to debt buyers who pursue collection aggressively. However, debt buyers often lack adequate documentation -- the original promissory note, payment history, and chain of assignment. If sued, demand proof of the debt. Many private student loan lawsuits fail when the plaintiff can't produce documentation.
+Many private student loan debts are sold to debt buyers who pursue collection aggressively. However, debt buyers often lack adequate documentation - the original promissory note, payment history, and chain of assignment. If sued, demand proof of the debt. Many private student loan lawsuits fail when the plaintiff can't produce documentation.
 
 Options for Defaulted Private Loans
 
@@ -1000,7 +1009,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1084,7 +1093,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Rehabilitation -- Remove Default From Your Credit Report
+## Student Loan Rehabilitation - Remove Default From Your Credit Report
 Source: https://studentloandefault.org/rehabilitation.html
 
 Student Loan Rehabilitation
@@ -1101,7 +1110,7 @@ You negotiate the payment amount with the collection agency holding your loan. T
 
 Benefits of Rehabilitation
 
-1. Default removed from credit report -- this is the unique advantage of rehabilitation. No other resolution method removes the default notation. 2. Garnishment stops -- once rehabilitation is complete, active wage garnishment and tax refund offset stop. 3. Eligibility restored -- you regain access to deferment, forbearance, IDR plans, and additional federal student aid. 4. Loan transferred to regular servicer -- out of collections and back to a standard servicer.
+1. Default removed from credit report - this is the unique advantage of rehabilitation. No other resolution method removes the default notation. 2. Garnishment stops - once rehabilitation is complete, active wage garnishment and tax refund offset stop. 3. Eligibility restored - you regain access to deferment, forbearance, IDR plans, and additional federal student aid. 4. Loan transferred to regular servicer - out of collections and back to a standard servicer.
 
 Important limitation: you can only rehabilitate each loan once. If you default again after rehabilitation, you cannot use rehabilitation a second time for the same loan. Consolidation would be your only option for a second default.
 
@@ -1153,7 +1162,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1237,7 +1246,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Social Security Offset -- Protecting Benefits From Seizure
+## Student Loan Social Security Offset - Protecting Benefits From Seizure
 Source: https://studentloandefault.org/social-security-offset.html
 
 Social Security Offset for Student Loans
@@ -1260,7 +1269,7 @@ If you're approaching retirement with defaulted student loans, resolve the defau
 
 How to Stop Social Security Offset
 
-Option 1: Exit default through rehabilitation or consolidation. Once out of default, the offset stops. Option 2: Enroll in IDR after consolidation -- your payment will be based on your income, which may be $0 if Social Security is your only income. Option 3: Apply for Total and Permanent Disability discharge if you have a qualifying disability. Option 4: Request a hardship review -- if the offset would reduce your income below the poverty level, the offset may be reduced or eliminated.
+Option 1: Exit default through rehabilitation or consolidation. Once out of default, the offset stops. Option 2: Enroll in IDR after consolidation - your payment will be based on your income, which may be $0 if Social Security is your only income. Option 3: Apply for Total and Permanent Disability discharge if you have a qualifying disability. Option 4: Request a hardship review - if the offset would reduce your income below the poverty level, the offset may be reduced or eliminated.
 
 The combination of consolidation + IDR plan is often the best long-term solution. After consolidation, your IDR payment is based on your adjusted gross income. If Social Security is your only income and it's below the filing threshold, your IDR payment could be $0 with no offset.
 
@@ -1297,6 +1306,10 @@ Brunner Test for Student Loans
 
 Credit Card Forgiveness Options
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1306,7 +1319,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1390,7 +1403,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Tax Refund Offset -- When the IRS Takes Your Refund
+## Student Loan Tax Refund Offset - When the IRS Takes Your Refund
 Source: https://studentloandefault.org/tax-refund-offset.html
 
 Student Loan Tax Refund Offset
@@ -1407,7 +1420,7 @@ The offset applies to federal tax refunds only. State tax refunds may also be su
 
 How to Stop or Prevent Offset
 
-Option 1: Exit default before tax filing season through rehabilitation or consolidation. Option 2: Request a review within 20 days of the offset notice. Grounds: debt isn't yours, already in repayment agreement, financial hardship, or statute of limitations (may apply to very old FFEL loans). Option 3: Adjust withholding -- if you reduce your tax withholding so you don't get a refund, there's nothing to offset (legal but doesn't solve the underlying default). Option 4: Injured spouse claim -- if filing jointly, the non-debtor spouse can recover their portion.
+Option 1: Exit default before tax filing season through rehabilitation or consolidation. Option 2: Request a review within 20 days of the offset notice. Grounds: debt isn't yours, already in repayment agreement, financial hardship, or statute of limitations (may apply to very old FFEL loans). Option 3: Adjust withholding - if you reduce your tax withholding so you don't get a refund, there's nothing to offset (legal but doesn't solve the underlying default). Option 4: Injured spouse claim - if filing jointly, the non-debtor spouse can recover their portion.
 
 The most sustainable solution is exiting default entirely. Loan rehabilitation or consolidation both remove the loan from TOP and prevent future offsets.
 
@@ -1415,7 +1428,7 @@ Injured Spouse Claims
 
 If you file a joint tax return and only one spouse has defaulted student loans, the non-debtor spouse can file IRS Form 8379 (Injured Spouse Allocation) to recover their share of the refund. This form allocates the refund based on each spouse's contribution to the joint tax liability.
 
-File Form 8379 with your tax return (not after). Processing takes 8-14 weeks. The form must be filed each year as long as the offset risk exists. Alternatively, file separate tax returns -- but this often results in a higher combined tax bill.
+File Form 8379 with your tax return (not after). Processing takes 8-14 weeks. The form must be filed each year as long as the offset risk exists. Alternatively, file separate tax returns - but this often results in a higher combined tax bill.
 
 Frequently Asked Questions
 
@@ -1459,7 +1472,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1543,7 +1556,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Student Loan Wage Garnishment -- How Much They Can Take and How to Stop It
+## Student Loan Wage Garnishment - How Much They Can Take and How to Stop It
 Source: https://studentloandefault.org/wage-garnishment.html
 
 Student Loan Wage Garnishment
@@ -1554,15 +1567,15 @@ Home » Student Loan Wage Garnishment
 
 How Student Loan Garnishment Works
 
-For federal student loans, the Department of Education can garnish wages through administrative wage garnishment (AWG) -- no lawsuit or court order required. The garnishment is limited to 15% of disposable pay (gross pay minus mandatory deductions). Additionally, at least 30 times the federal minimum wage ($217.50/week) must remain after garnishment.
+For federal student loans, the Department of Education can garnish wages through administrative wage garnishment (AWG) - no lawsuit or court order required. The garnishment is limited to 15% of disposable pay (gross pay minus mandatory deductions). Additionally, at least 30 times the federal minimum wage ($217.50/week) must remain after garnishment.
 
 You'll receive a 30-day notice before garnishment begins. This notice is your window to: request a hearing, challenge the debt, object to the garnishment amount, or enter into a voluntary repayment agreement. Don't ignore this notice.
 
 How to Stop or Reduce Garnishment
 
-Option 1: Request a hearing within 30 days of the notice. Grounds include: the debt isn't yours, you've already repaid it, the amount is wrong, or garnishment would cause extreme financial hardship. Option 2: Rehabilitate the loan -- make 9 reasonable payments over 10 months to exit default and stop garnishment. Option 3: Consolidate -- a Direct Consolidation Loan with an IDR plan stops garnishment. Option 4: File bankruptcy -- the automatic stay stops garnishment immediately.
+Option 1: Request a hearing within 30 days of the notice. Grounds include: the debt isn't yours, you've already repaid it, the amount is wrong, or garnishment would cause extreme financial hardship. Option 2: Rehabilitate the loan - make 9 reasonable payments over 10 months to exit default and stop garnishment. Option 3: Consolidate - a Direct Consolidation Loan with an IDR plan stops garnishment. Option 4: File bankruptcy - the automatic stay stops garnishment immediately.
 
-The fastest option is consolidation -- it can stop garnishment within weeks. Rehabilitation takes about 10 months but removes the default from your credit report. Bankruptcy stops garnishment the same day you file.
+The fastest option is consolidation - it can stop garnishment within weeks. Rehabilitation takes about 10 months but removes the default from your credit report. Bankruptcy stops garnishment the same day you file.
 
 Financial Hardship Objection
 
@@ -1603,6 +1616,10 @@ Brunner Test for Student Loans
 
 Credit Card Forgiveness Options
 
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
+
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
 ♥ Sponsor
@@ -1612,7 +1629,7 @@ Further Reading & Resources
 Authority sources for deeper research on student loans and bankruptcy:
 
 11 U.S.C. Section 523(a)(8)
-Cornell LII -- student loan exception
+Cornell LII - student loan exception
 
 Federal Student Aid
 Dept. of Education
@@ -1693,3 +1710,75 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Privacy Policy - studentloandefault.org
+Source: https://studentloandefault.org/privacy.html
+
+studentloandefault.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
